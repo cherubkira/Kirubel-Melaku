@@ -1,4 +1,3 @@
 Personal Website ⭐
-This is a showcase of my past projects and experiences.
-# React + Vite
 
+This is a showcase of my past projects and experiences.
