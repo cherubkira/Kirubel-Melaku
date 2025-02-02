@@ -64,7 +64,7 @@ const Projects = () => {
     <div
       className="bg-opacity-60 min-h-screen rounded-3xl shadow-sm"
       style={{
-        backgroundColor: "#d4d8dd",
+        backgroundColor: "#DDD5CB",
         // backgroundImage: `url(${background})`,
       }}
       id="projects"

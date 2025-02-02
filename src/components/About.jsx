@@ -11,7 +11,7 @@ const About = () => {
     <div
       className=" flex flex-col bg-opacity-60 justify-evenly bg-primary-50 lg:mr-24 mx-6 lg:ml-[96px]  2xl:mx-40  min-h-screen  md:pt-[20px] lg:px-10  rounded-3xl  shadow-lg  "
       style={{
-        backgroundColor: "#c0c8ca",
+        backgroundColor: "#DDD5CB",
         // backgroundImage: `url(${backgroundImage})`,
       }}
       id="about"
@@ -34,9 +34,9 @@ const About = () => {
           >
             <Text>
               👋 Hello! I'm{" "}
-              <span className="text-primary-900  ">Kirubel Melaku</span>,  a
-              creative Full Stack Web Developer based in Addis Ababa, ETHIOPIA, and I'm
-              very passionate and dedicated to my work. With years
+              <span className="text-primary-900  ">Kirubel Melaku</span>, a
+              creative Full Stack Web Developer based in Addis Ababa, ETHIOPIA,
+              and I'm very passionate and dedicated to my work. With years
               experience as a professional Full Stack Developer, I have acquired
               the skills necessary to build great, appealing, and premium
               websites that meet the latest web standards. Detail-orientated Web
