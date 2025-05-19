@@ -94,10 +94,10 @@ export const langs = [
     name: "Rest api",
     logo: restapi,
   },
-  // {
-  //   name: "jwt",
-  //   logo: jwt,
-  // },
+  {
+    name: "jwt",
+   logo: jwt,
+  },
   // {
   //   name: "Tanstack",
   //   logo: tanstack,
@@ -106,14 +106,7 @@ export const langs = [
     name: "git",
     logo: git,
   },
-  // {
-  //   name: "Firebase",
-  //   logo: firebase,
-  // },
-  // {
-  //   name: "Framer",
-  //   logo: framer,
-  // },
+ 
   {
     name: "Mongoose",
     logo: mongoose,
@@ -123,14 +116,14 @@ export const langs = [
 export const apps = [
   {
     name: "Online-vote",
-    // web: "https://e-voteuser.onrender.com/",
-    git: "https://github.com/amir5pro/e-voteUser",
+    
+    git: "https://github.com/cherubkira/Online-voting",
     pro: "react",
     photo: Online,
   },
   {
     name: "Apple Clone",
-    // web: "https://fast-edit.web.app/",
+    
     git: "https://github.com/cherubkira/Apple-Clone",
     pro: "react",
     photo: Apple,
@@ -138,7 +131,6 @@ export const apps = [
 
   {
     name: "E-commerce",
-    // web: "https://fast-edit.web.app/",
     git: "https://github.com/cherubkira/E-commerce",
     pro: "react",
     photo: car,
